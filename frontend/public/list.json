@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "name": "story book",
+        "title": "Lorem, ipsum dolor sit amet consectur despictang amit.",
+        "price": 0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714807070~exp=1714810670~hmac=8162a34e44f604e41faabd40b4a408bf3f150812a1f56d9cab3a8a0b60143daa&w=740"
+    },
+    {
+        "id":2,
+        "name": "poem book",
+        "title": "Lorem, ipsum dolor sit amet consectur despictang amit.",
+        "price": 0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714807070~exp=1714810670~hmac=8162a34e44f604e41faabd40b4a408bf3f150812a1f56d9cab3a8a0b60143daa&w=740"
+    },
+    {
+        "id":3,
+        "name": "Comdey book",
+        "title": "Lorem, ipsum dolor sit amet consectur despictang amit.",
+        "price": 10,
+        "category":"comedy",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714807070~exp=1714810670~hmac=8162a34e44f604e41faabd40b4a408bf3f150812a1f56d9cab3a8a0b60143daa&w=740"
+    },
+    {
+        "id":4,
+        "name": "programming book",
+        "title": "Lorem, ipsum dolor sit amet consectur despictang amit.",
+        "price": 0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714807070~exp=1714810670~hmac=8162a34e44f604e41faabd40b4a408bf3f150812a1f56d9cab3a8a0b60143daa&w=740"
+    },
+    {
+        "id":5,
+        "name": "DSA book",
+        "title": "Lorem, ipsum dolor sit amet consectur despictang amit.",
+        "price": 50,
+        "category":"programming",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714807070~exp=1714810670~hmac=8162a34e44f604e41faabd40b4a408bf3f150812a1f56d9cab3a8a0b60143daa&w=740"
+    },
+    {
+        "id":6,
+        "name": "Java book",
+        "title": "Lorem, ipsum dolor sit amet consectur despictang amit.",
+        "price": 0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714807070~exp=1714810670~hmac=8162a34e44f604e41faabd40b4a408bf3f150812a1f56d9cab3a8a0b60143daa&w=740"
+    },
+    {
+        "id":7,
+        "name": "OOP C++ book",
+        "title": "Lorem, ipsum dolor sit amet consectur despictang amit.",
+        "price": 100,
+        "category":"programming",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714807070~exp=1714810670~hmac=8162a34e44f604e41faabd40b4a408bf3f150812a1f56d9cab3a8a0b60143daa&w=740"
+    },
+    {
+        "id":8,
+        "name": "PHP book",
+        "title": "Lorem, ipsum dolor sit amet consectur despictang amit.",
+        "price": 0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714807070~exp=1714810670~hmac=8162a34e44f604e41faabd40b4a408bf3f150812a1f56d9cab3a8a0b60143daa&w=740"
+    }
+]
